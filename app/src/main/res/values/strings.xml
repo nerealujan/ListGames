@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListGames</string>
+    <string name="nav_about_game">Datos del juego</string>
+    <string name="genre">Genero: </string>
+</resources>
